@@ -6,11 +6,10 @@ Bu proje, bir kurs kapsamında geliştirdiğim bir **tesettür giyim mağazası 
 
 ## 🚀 Kullanılan Teknolojiler
 
-* **HTML5**
-* **CSS3**
+* **HTML**
+* **CSS**
 * **JavaScript**
 * **ASP.NET Core**
-* **Responsive (mobil uyumlu) tasarım**
 
 ---
 

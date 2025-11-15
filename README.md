@@ -16,7 +16,6 @@ Bu proje, bir kurs kapsamında geliştirdiğim bir **tesettür giyim mağazası 
 ## 📌 Özellikler
 
 * Ürün tanıtım sayfaları
-* Hakkımızda bölümü
 * İletişim sayfası
 * Modern ve temiz tasarım
 * Tüm cihazlarda uyumlu yapı
@@ -45,7 +44,7 @@ git clone https://github.com/kullaniciadi/TesetturGiyimWebSitesi.git
 
 Projeyle ilgili sorularınız için:
 
-* LinkedIn: *profil linkinizi ekleyin*
+* LinkedIn: linkedin.com/in/selim-efe-u-704b70335
 
 ---
 
